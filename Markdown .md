@@ -61,4 +61,4 @@ Efeitos em SVG: Animação específica para gráficos vetoriais escaláveis.
 Conclusão
 JavaScript é fundamental na criação de efeitos visuais dinâmicos em páginas web, permitindo interatividade e animações fluidas através da manipulação do DOM e da interação com CSS. Com o uso de bibliotecas como jQuery, GSAP e Anime.js, os desenvolvedores podem facilmente implementar efeitos complexos sem precisar escrever muito código manualmente. Essa combinação não só melhora a estética das páginas web, mas também aprimora a experiência do usuário.
 
- (https://chat.luzia.com/) fonte uzada
+ (https://chat.luzia.com/) fonte usada
