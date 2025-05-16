@@ -1,5 +1,3 @@
-Questão 1
-
 JavaScript é uma linguagem de programação amplamente utilizada para criar interatividade e efeitos visuais em páginas web. A combinação de JavaScript com CSS (Cascading Style Sheets) permite que desenvolvedores modifiquem estilos dinamicamente e implementem animações, proporcionando uma experiência mais envolvente para os usuários.
  Interação entre JavaScript e CSS
 JavaScript pode interagir com o CSS de várias maneiras, permitindo a manipulação de estilos diretamente no DOM (Document Object Model). Aqui estão algumas formas comuns de como isso é feito:
