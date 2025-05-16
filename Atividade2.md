@@ -49,3 +49,4 @@ $: Indica o final da string.
 
 Conclusão
 Usar JavaScript no lado do cliente para validar formulários é uma prática importante que melhora a usabilidade e a eficiência das aplicações web. A captura de dados através de eventos e a aplicação de expressões regulares para validações mais avançadas garantem que os dados sejam consistentes e atendam aos requisitos antes de serem processados pelo servidor.
+(https://chat.luzia.com/) fonte usada
